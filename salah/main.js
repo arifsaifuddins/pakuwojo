@@ -1,4 +1,4 @@
-fetch('https://api.pray.zone/v2/times/today.json?city=khartoum')
+fetch("https://api.pray.zone/v2/times/today.json?city=khartoum")
   .then(m => m.json())
   .then(j => {
 
@@ -6,5 +6,6 @@ fetch('https://api.pray.zone/v2/times/today.json?city=khartoum')
     console.log(data.Imsak);
 
     document.querySelector('body')
-      .innerHTML = /*html*/ `<h1>${data.Maghrib}</h1>`
+      .innerHTML = /*html*/ `
+        <h1>${data.Maghrib}</h1>`
   });
