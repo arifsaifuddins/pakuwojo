@@ -1,5 +1,3 @@
-console.log('ok');
-
 fetch('https://api.pray.zone/v2/times/today.json?city=khartoum')
   .then(m => m.json())
   .then(j => {
