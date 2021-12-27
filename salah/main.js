@@ -4,7 +4,7 @@ fetch("https://api.aladhan.com/v1/timingsByCity?city=khartoum&country=sudan")
 
     data = j.data.timings;
 
-    document.querySelector('body')
+    document.querySelector('.content')
       .innerHTML += /*html*/ `
         <p>maghrib : ${data.Maghrib} </p>
         <p>isha : ${data.Isha} </p>
