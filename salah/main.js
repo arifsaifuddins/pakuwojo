@@ -25,5 +25,4 @@ fetch("./location.json")
             `;
         });
     });
-
   });
