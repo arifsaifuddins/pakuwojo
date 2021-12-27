@@ -1,451 +1,23 @@
 [{
-    "capital": "Sukhumi"
-  },
-  {
-    "capital": "Kabul"
-  },
-  {
-    "capital": "Tirana"
-  },
-  {
-    "capital": "Algiers"
-  },
-
-  {
-    "capital": "Luanda"
-  },
-
-  {
-    "capital": "Buenos-Aires"
-  },
-  {
-    "capital": "Yerevan"
-  },
-  {
-    "capital": "Georgetown"
-  },
-  {
-    "capital": "Canberra"
-  },
-  {
-    "capital": "Vienna"
-  },
-  {
-    "capital": "Baku"
-  },
-  {
-    "capital": "Dhaka"
-  },
-  {
-    "capital": "Minsk"
-  },
-  {
-    "capital": "Brussels"
-  },
-  {
-    "capital": "Belmopan"
-  },
-  {
-    "capital": "Hamilton"
-  },
-  {
-    "capital": "Thimphu"
-  },
-  {
-    "capital": "Sucre"
-  },
-  {
-    "capital": "La-Paz"
-  },
-  {
-    "capital": "Sarajevo"
-  },
-  {
-    "capital": "Gaborone"
-  },
-  {
-    "capital": "Brasilia"
-  },
-  {
-    "capital": "Bandar-Seri-Begawan"
-  },
-  {
-    "capital": "Sofia"
-  },
-  {
-    "capital": "Ouagadougou"
-  },
-  {
-    "capital": "Bujumbura"
-  },
-  {
-    "capital": "Phnom-Penh"
-  },
-  {
-    "capital": "Yaounde"
-  },
-  {
-    "capital": "Ottawa"
-  },
-  {
-    "capital": "George-Town"
-  },
-  {
-    "capital": "Bangui"
-  },
-  {
-    "capital": "Santiago"
-  },
-  {
-    "capital": "Beijing"
-  },
-  {
-    "capital": "San-Jose"
-  },
-  {
-    "capital": "Zagreb"
-  },
-  {
-    "capital": "Nicosia"
-  },
-  {
-    "capital": "Prague"
-  },
-  {
-    "capital": "Yamoussoukro"
-  },
-  {
-    "capital": "Kinshasa"
-  },
-  {
-    "capital": "Copenhagen"
-  },
-  {
-    "capital": "Santo-Domingo"
-  },
-  {
-    "capital": "Dili"
-  },
-  {
-    "capital": "Quito"
-  },
-  {
-    "capital": "Cairo"
-  },
-  {
-    "capital": "San-Salvador"
-  },
-  {
-    "capital": "Asmara"
-  },
-  {
-    "capital": "Tallinn"
-  },
-  {
-    "capital": "Addis-Ababa"
-  },
-  {
-    "capital": "Stanley"
-  },
-  {
-    "capital": "Suva"
-  },
-  {
-    "capital": "Helsinki"
-  },
-  {
-    "capital": "Paris"
-  },
-  {
-    "capital": "Cayenne"
-  },
-  {
-    "capital": "Libreville"
-  },
-  {
-    "capital": "Banjul"
-  },
-  {
-    "capital": "Tbilisi"
-  },
-  {
-    "capital": "Berlin"
-  },
-  {
-    "capital": "Accra"
-  },
-  {
-    "capital": "Gibraltar"
-  },
-  {
-    "capital": "Athens"
-  },
-  {
-    "capital": "Nuuk"
-  },
-  {
-    "capital": "Bissau"
-  },
-  {
-    "capital": "Georgetown"
-  },
-  {
-    "capital": "Tegucigalpa"
-  },
-  {
-    "capital": "Budapest"
-  },
-  {
-    "capital": "Reykjavik"
-  },
-  {
-    "capital": "Jakarta"
-  },
-  {
-    "capital": "Tehran"
-  },
-  {
-    "capital": "Baghdad"
-  },
-  {
-    "capital": "Dublin"
-  },
-  {
-    "capital": "Douglas"
-  },
-  {
-    "capital": "Jerusalem"
-  },
-  {
-    "capital": "Rome"
-  },
-  {
-    "capital": "Kingston"
-  },
-  {
-    "capital": "Tokyo"
-  },
-  {
-    "capital": "Amman"
-  },
-  {
-    "capital": "Astana"
-  },
-  {
-    "capital": "Nairobi"
-  },
-  {
-    "capital": "Bishkek"
-  },
-  {
-    "capital": "Vientiane"
-  },
-  {
-    "capital": "Riga"
-  },
-  {
-    "capital": "Beirut"
-  },
-  {
-    "capital": "Maseru"
-  },
-  {
-    "capital": "Monrovia"
-  },
-  {
-    "capital": "Vilnius"
-  },
-  {
-    "capital": "Skopje"
-  },
-  {
-    "capital": "Lilongwe"
-  },
-  {
-    "capital": "Kuala-Lumpur"
-  },
-  {
-    "capital": "Bamako"
-  },
-  {
-    "capital": "Nouakchott"
-  },
-  {
-    "capital": "Mexico"
-  },
-  {
-    "capital": "Chisinau"
-  },
-  {
-    "capital": "Ulaanbaatar"
-  },
-  {
-    "capital": "Podgorica"
-  },
-  {
-    "capital": "Plymouth"
-  },
-  {
-    "capital": "Rabat"
-  },
-  {
-    "capital": "Maputo"
-  },
-  {
-    "capital": "Windhoek"
-  },
-  {
-    "capital": "Kathmandu"
-  },
-  {
-    "capital": "Amsterdam"
-  },
-  {
-    "capital": "Wellington"
-  },
-  {
-    "capital": "Managua"
-  },
-  {
-    "capital": "Niamey"
+    "capital": "Abu-Dhabi"
   },
   {
     "capital": "Abuja"
   },
   {
-    "capital": "Kingston"
+    "capital": "Accra"
   },
   {
-    "capital": "Pyongyang"
+    "capital": "Addis-Ababa"
   },
   {
-    "capital": "Nicosia"
+    "capital": "Algiers"
   },
   {
-    "capital": "Belfast"
+    "capital": "Amman"
   },
   {
-    "capital": "Oslo"
-  },
-  {
-    "capital": "Muscat"
-  },
-  {
-    "capital": "Islamabad"
-  },
-  {
-    "capital": "Jerusalem"
-  },
-  {
-    "capital": "Asuncion"
-  },
-  {
-    "capital": "Lima"
-  },
-  {
-    "capital": "Manila"
-  },
-  {
-    "capital": "Warsaw"
-  },
-  {
-    "capital": "Lisbon"
-  },
-  {
-    "capital": "San-Juan"
-  },
-  {
-    "capital": "Doha"
-  },
-  {
-    "capital": "Taipei"
-  },
-  {
-    "capital": "Brazzaville"
-  },
-  {
-    "capital": "Bucharest"
-  },
-  {
-    "capital": "Moscow"
-  },
-  {
-    "capital": "Kigali"
-  },
-  {
-    "capital": "Mecca"
-  },
-  {
-    "capital": "Edinburgh"
-  },
-  {
-    "capital": "Belgrade"
-  },
-  {
-    "capital": "Singapore"
-  },
-  {
-    "capital": "Bratislava"
-  },
-  {
-    "capital": "Ljubljana"
-  },
-  {
-    "capital": "Honiara"
-  },
-  {
-    "capital": "Mogadishu"
-  },
-  {
-    "capital": "Hargeisa"
-  },
-  {
-    "capital": "Pretoria"
-  },
-  {
-    "capital": "Seoul"
-  },
-  {
-    "capital": "Madrid"
-  },
-  {
-    "capital": "Khartoum"
-  },
-  {
-    "capital": "Paramaribo"
-  },
-  {
-    "capital": "Mbabane"
-  },
-  {
-    "capital": "Stockholm"
-  },
-  {
-    "capital": "Bern"
-  },
-  {
-    "capital": "Damascus"
-  },
-  {
-    "capital": "Dushanbe"
-  },
-  {
-    "capital": "Dodoma"
-  },
-  {
-    "capital": "Bangkok"
-  },
-  {
-    "capital": "Lome"
-  },
-  {
-    "capital": "Tiraspol"
-  },
-  {
-    "capital": "Edinburgh"
-  },
-  {
-    "capital": "Tunis"
+    "capital": "Amsterdam"
   },
   {
     "capital": "Ankara"
@@ -453,41 +25,466 @@
   {
     "capital": "Ashgabat"
   },
-
   {
-    "capital": "Kampala"
+    "capital": "Asmara"
   },
   {
-    "capital": "Abu-Dhabi"
+    "capital": "Astana"
   },
   {
-    "capital": "London"
+    "capital": "Asuncion"
   },
   {
-    "capital": "Washington"
+    "capital": "Athens"
   },
   {
-    "capital": "Tashkent"
+    "capital": "Baghdad"
   },
   {
-    "capital": "Vatican"
+    "capital": "Baku"
+  },
+  {
+    "capital": "Bamako"
+  },
+  {
+    "capital": "Bandar-Seri-Begawan"
+  },
+  {
+    "capital": "Bangkok"
+  },
+  {
+    "capital": "Bangui"
+  },
+  {
+    "capital": "Banjul"
+  },
+  {
+    "capital": "Beijing"
+  },
+  {
+    "capital": "Beirut"
+  },
+  {
+    "capital": "Belfast"
+  },
+  {
+    "capital": "Belgrade"
+  },
+  {
+    "capital": "Belmopan"
+  },
+  {
+    "capital": "Berlin"
+  },
+  {
+    "capital": "Bern"
+  },
+  {
+    "capital": "Bishkek"
+  },
+  {
+    "capital": "Bissau"
+  },
+  {
+    "capital": "Brasilia"
+  },
+  {
+    "capital": "Bratislava"
+  },
+  {
+    "capital": "Brazzaville"
+  },
+  {
+    "capital": "Brussels"
+  },
+  {
+    "capital": "Bucharest"
+  },
+  {
+    "capital": "Budapest"
+  },
+  {
+    "capital": "Buenos-Aires"
+  },
+  {
+    "capital": "Bujumbura"
+  },
+  {
+    "capital": "Cairo"
+  },
+  {
+    "capital": "Canberra"
   },
   {
     "capital": "Caracas"
   },
   {
-    "capital": "Hanoi"
-  },
-  {
     "capital": "Cardiff"
   },
   {
-    "capital": "Sanaa"
+    "capital": "Cayenne"
+  },
+  {
+    "capital": "Chisinau"
+  },
+  {
+    "capital": "Copenhagen"
+  },
+  {
+    "capital": "Damascus"
+  },
+  {
+    "capital": "Dhaka"
+  },
+  {
+    "capital": "Dili"
+  },
+  {
+    "capital": "Dodoma"
+  },
+  {
+    "capital": "Doha"
+  },
+  {
+    "capital": "Douglas"
+  },
+  {
+    "capital": "Dublin"
+  },
+  {
+    "capital": "Dushanbe"
+  },
+  {
+    "capital": "Edinburgh"
+  },
+  {
+    "capital": "Edinburgh"
+  },
+  {
+    "capital": "Gaborone"
+  },
+  {
+    "capital": "Georgetown"
+  },
+  {
+    "capital": "Georgetown"
+  },
+  {
+    "capital": "George-Town"
+  },
+  {
+    "capital": "Gibraltar"
+  },
+  {
+    "capital": "Hamilton"
+  },
+  {
+    "capital": "Hanoi"
+  },
+  {
+    "capital": "Harare"
+  },
+  {
+    "capital": "Hargeisa"
+  },
+  {
+    "capital": "Helsinki"
+  },
+  {
+    "capital": "Honiara"
+  },
+  {
+    "capital": "Islamabad"
+  },
+  {
+    "capital": "Jakarta"
+  },
+  {
+    "capital": "Jerusalem"
+  },
+  {
+    "capital": "Jerusalem"
+  },
+  {
+    "capital": "Kabul"
+  },
+  {
+    "capital": "Kampala"
+  },
+  {
+    "capital": "Kathmandu"
+  },
+  {
+    "capital": "Khartoum"
+  },
+  {
+    "capital": "Kigali"
+  },
+  {
+    "capital": "Kingston"
+  },
+  {
+    "capital": "Kingston"
+  },
+  {
+    "capital": "Kinshasa"
+  },
+  {
+    "capital": "Kuala-Lumpur"
+  },
+  {
+    "capital": "La-Paz"
+  },
+  {
+    "capital": "Libreville"
+  },
+  {
+    "capital": "Lilongwe"
+  },
+  {
+    "capital": "Lima"
+  },
+  {
+    "capital": "Lisbon"
+  },
+  {
+    "capital": "Ljubljana"
+  },
+  {
+    "capital": "Lome"
+  },
+  {
+    "capital": "London"
+  },
+  {
+    "capital": "Luanda"
   },
   {
     "capital": "Lusaka"
   },
   {
-    "capital": "Harare"
+    "capital": "Madrid"
+  },
+  {
+    "capital": "Managua"
+  },
+  {
+    "capital": "Manila"
+  },
+  {
+    "capital": "Maputo"
+  },
+  {
+    "capital": "Maseru"
+  },
+  {
+    "capital": "Mbabane"
+  },
+  {
+    "capital": "Mecca"
+  },
+  {
+    "capital": "Mexico"
+  },
+  {
+    "capital": "Minsk"
+  },
+  {
+    "capital": "Mogadishu"
+  },
+  {
+    "capital": "Monrovia"
+  },
+  {
+    "capital": "Moscow"
+  },
+  {
+    "capital": "Muscat"
+  },
+  {
+    "capital": "Nairobi"
+  },
+  {
+    "capital": "Niamey"
+  },
+  {
+    "capital": "Nicosia"
+  },
+  {
+    "capital": "Nicosia"
+  },
+  {
+    "capital": "Nouakchott"
+  },
+  {
+    "capital": "Nuuk"
+  },
+  {
+    "capital": "Oslo"
+  },
+  {
+    "capital": "Ottawa"
+  },
+  {
+    "capital": "Ouagadougou"
+  },
+  {
+    "capital": "Paramaribo"
+  },
+  {
+    "capital": "Paris"
+  },
+  {
+    "capital": "Phnom-Penh"
+  },
+  {
+    "capital": "Plymouth"
+  },
+  {
+    "capital": "Podgorica"
+  },
+  {
+    "capital": "Prague"
+  },
+  {
+    "capital": "Pretoria"
+  },
+  {
+    "capital": "Pyongyang"
+  },
+  {
+    "capital": "Quito"
+  },
+  {
+    "capital": "Rabat"
+  },
+  {
+    "capital": "Reykjavik"
+  },
+  {
+    "capital": "Riga"
+  },
+  {
+    "capital": "Rome"
+  },
+  {
+    "capital": "Sanaa"
+  },
+  {
+    "capital": "San-Jose"
+  },
+  {
+    "capital": "San-Juan"
+  },
+  {
+    "capital": "San-Salvador"
+  },
+  {
+    "capital": "Santiago"
+  },
+  {
+    "capital": "Santo-Domingo"
+  },
+  {
+    "capital": "Sarajevo"
+  },
+  {
+    "capital": "Seoul"
+  },
+  {
+    "capital": "Singapore"
+  },
+  {
+    "capital": "Skopje"
+  },
+  {
+    "capital": "Sofia"
+  },
+  {
+    "capital": "Stanley"
+  },
+  {
+    "capital": "Stockholm"
+  },
+  {
+    "capital": "Sucre"
+  },
+  {
+    "capital": "Sukhumi"
+  },
+  {
+    "capital": "Suva"
+  },
+  {
+    "capital": "Taipei"
+  },
+  {
+    "capital": "Tallinn"
+  },
+  {
+    "capital": "Tashkent"
+  },
+  {
+    "capital": "Tbilisi"
+  },
+  {
+    "capital": "Tegucigalpa"
+  },
+  {
+    "capital": "Tehran"
+  },
+  {
+    "capital": "Thimphu"
+  },
+  {
+    "capital": "Tirana"
+  },
+  {
+    "capital": "Tiraspol"
+  },
+  {
+    "capital": "Tokyo"
+  },
+  {
+    "capital": "Tunis"
+  },
+  {
+    "capital": "Ulaanbaatar"
+  },
+  {
+    "capital": "Vatican"
+  },
+  {
+    "capital": "Vienna"
+  },
+  {
+    "capital": "Vientiane"
+  },
+  {
+    "capital": "Vilnius"
+  },
+  {
+    "capital": "Warsaw"
+  },
+  {
+    "capital": "Washington"
+  },
+  {
+    "capital": "Wellington"
+  },
+  {
+    "capital": "Windhoek"
+  },
+  {
+    "capital": "Yamoussoukro"
+  },
+  {
+    "capital": "Yaounde"
+  },
+  {
+    "capital": "Yerevan"
+  },
+  {
+    "capital": "Zagreb"
   }
 ]
