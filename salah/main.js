@@ -9,11 +9,20 @@ fetch("./location.json")
         .then(j => {
 
           data = j.results.datetime[0].times;
-          console.log(data.Imsak);
 
           document.querySelector('body')
             .innerHTML += /*html*/ `
-                <h1>maghrib : ${data.Maghrib} di ${ad.capital}</h1>`
+              <h1>${ad.capital}</h1>
+              <p>maghrib : ${data.Maghrib} </p>
+              <p>isha : ${data.Isha} </p>
+              <p>midnight : ${data.Midnight} </p>
+              <p>imsak : ${data.Imsak} </p>
+              <p>fajr : ${data.Fajr} </p>
+              <p>sunrise : ${data.Sunrise} </p>
+              <p>dhuhr : ${data.Dhuhr} </p>
+              <p>asr : ${data.Asr} </p>
+              <p>sunset : ${data.Sunset} </p>
+            `;
         });
     });
 
