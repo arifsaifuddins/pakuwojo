@@ -5,37 +5,21 @@
     "capital": "Kabul"
   },
   {
-    "capital": "Episkopi Cantonment"
-  },
-  {
     "capital": "Tirana"
   },
   {
     "capital": "Algiers"
   },
-  {
-    "capital": "Pago Pago"
-  },
-  {
-    "capital": "Andorra la Vella"
-  },
+
   {
     "capital": "Luanda"
   },
+
   {
-    "capital": "The Valley"
-  },
-  {
-    "capital": "St. John's"
-  },
-  {
-    "capital": "Buenos Aires"
+    "capital": "Buenos-Aires"
   },
   {
     "capital": "Yerevan"
-  },
-  {
-    "capital": "Oranjestad"
   },
   {
     "capital": "Georgetown"
@@ -50,16 +34,7 @@
     "capital": "Baku"
   },
   {
-    "capital": "Nassau"
-  },
-  {
-    "capital": "Manama"
-  },
-  {
     "capital": "Dhaka"
-  },
-  {
-    "capital": "Bridgetown"
   },
   {
     "capital": "Minsk"
@@ -71,9 +46,6 @@
     "capital": "Belmopan"
   },
   {
-    "capital": "Porto-Novo"
-  },
-  {
     "capital": "Hamilton"
   },
   {
@@ -83,7 +55,7 @@
     "capital": "Sucre"
   },
   {
-    "capital": "La Paz"
+    "capital": "La-Paz"
   },
   {
     "capital": "Sarajevo"
@@ -92,13 +64,10 @@
     "capital": "Gaborone"
   },
   {
-    "capital": "Brasília"
+    "capital": "Brasilia"
   },
   {
-    "capital": "Road Town"
-  },
-  {
-    "capital": "Bandar Seri Begawan"
+    "capital": "Bandar-Seri-Begawan"
   },
   {
     "capital": "Sofia"
@@ -110,25 +79,19 @@
     "capital": "Bujumbura"
   },
   {
-    "capital": "Phnom Penh"
+    "capital": "Phnom-Penh"
   },
   {
-    "capital": "Yaoundé"
+    "capital": "Yaounde"
   },
   {
     "capital": "Ottawa"
   },
   {
-    "capital": "Praia"
-  },
-  {
-    "capital": "George Town"
+    "capital": "George-Town"
   },
   {
     "capital": "Bangui"
-  },
-  {
-    "capital": "N'Djamena"
   },
   {
     "capital": "Santiago"
@@ -137,31 +100,10 @@
     "capital": "Beijing"
   },
   {
-    "capital": "Flying Fish Cove"
-  },
-  {
-    "capital": "West Island"
-  },
-  {
-    "capital": "Bogotá"
-  },
-  {
-    "capital": "Moroni"
-  },
-  {
-    "capital": "Avarua"
-  },
-  {
-    "capital": "San José"
+    "capital": "San-Jose"
   },
   {
     "capital": "Zagreb"
-  },
-  {
-    "capital": "Havana"
-  },
-  {
-    "capital": "Willemstad"
   },
   {
     "capital": "Nicosia"
@@ -179,19 +121,10 @@
     "capital": "Copenhagen"
   },
   {
-    "capital": "Djibouti"
-  },
-  {
-    "capital": "Roseau"
-  },
-  {
-    "capital": "Santo Domingo"
+    "capital": "Santo-Domingo"
   },
   {
     "capital": "Dili"
-  },
-  {
-    "capital": "Hanga Roa"
   },
   {
     "capital": "Quito"
@@ -200,10 +133,7 @@
     "capital": "Cairo"
   },
   {
-    "capital": "San Salvador"
-  },
-  {
-    "capital": "Malabo"
+    "capital": "San-Salvador"
   },
   {
     "capital": "Asmara"
@@ -212,16 +142,10 @@
     "capital": "Tallinn"
   },
   {
-    "capital": "Addis Ababa"
+    "capital": "Addis-Ababa"
   },
   {
     "capital": "Stanley"
-  },
-  {
-    "capital": "Tórshavn"
-  },
-  {
-    "capital": "Palikir"
   },
   {
     "capital": "Suva"
@@ -234,9 +158,6 @@
   },
   {
     "capital": "Cayenne"
-  },
-  {
-    "capital": "Papeete"
   },
   {
     "capital": "Libreville"
@@ -263,28 +184,10 @@
     "capital": "Nuuk"
   },
   {
-    "capital": "St. George's"
-  },
-  {
-    "capital": "Hagåtña"
-  },
-  {
-    "capital": "Guatemala City"
-  },
-  {
-    "capital": "St. Peter Port"
-  },
-  {
-    "capital": "Conakry"
-  },
-  {
     "capital": "Bissau"
   },
   {
     "capital": "Georgetown"
-  },
-  {
-    "capital": "Port-au-Prince"
   },
   {
     "capital": "Tegucigalpa"
@@ -293,10 +196,7 @@
     "capital": "Budapest"
   },
   {
-    "capital": "Reykjavík"
-  },
-  {
-    "capital": "New Delhi"
+    "capital": "Reykjavik"
   },
   {
     "capital": "Jakarta"
@@ -326,9 +226,6 @@
     "capital": "Tokyo"
   },
   {
-    "capital": "St. Helier"
-  },
-  {
     "capital": "Amman"
   },
   {
@@ -336,15 +233,6 @@
   },
   {
     "capital": "Nairobi"
-  },
-  {
-    "capital": "Tarawa"
-  },
-  {
-    "capital": "Pristina"
-  },
-  {
-    "capital": "Kuwait City"
   },
   {
     "capital": "Bishkek"
@@ -365,55 +253,28 @@
     "capital": "Monrovia"
   },
   {
-    "capital": "Tripoli"
-  },
-  {
-    "capital": "Vaduz"
-  },
-  {
     "capital": "Vilnius"
-  },
-  {
-    "capital": "Luxembourg"
   },
   {
     "capital": "Skopje"
   },
   {
-    "capital": "Antananarivo"
-  },
-  {
     "capital": "Lilongwe"
   },
   {
-    "capital": "Kuala Lumpur"
-  },
-  {
-    "capital": "Malé"
+    "capital": "Kuala-Lumpur"
   },
   {
     "capital": "Bamako"
   },
   {
-    "capital": "Valletta"
-  },
-  {
-    "capital": "Majuro"
-  },
-  {
     "capital": "Nouakchott"
   },
   {
-    "capital": "Port Louis"
-  },
-  {
-    "capital": "Mexico City"
+    "capital": "Mexico"
   },
   {
     "capital": "Chisinau"
-  },
-  {
-    "capital": "Monaco"
   },
   {
     "capital": "Ulaanbaatar"
@@ -431,25 +292,13 @@
     "capital": "Maputo"
   },
   {
-    "capital": "Naypyidaw"
-  },
-  {
-    "capital": "Stepanakert"
-  },
-  {
     "capital": "Windhoek"
-  },
-  {
-    "capital": "Yaren"
   },
   {
     "capital": "Kathmandu"
   },
   {
     "capital": "Amsterdam"
-  },
-  {
-    "capital": "Nouméa"
   },
   {
     "capital": "Wellington"
@@ -464,9 +313,6 @@
     "capital": "Abuja"
   },
   {
-    "capital": "Alofi"
-  },
-  {
     "capital": "Kingston"
   },
   {
@@ -479,9 +325,6 @@
     "capital": "Belfast"
   },
   {
-    "capital": "Saipan"
-  },
-  {
     "capital": "Oslo"
   },
   {
@@ -491,19 +334,10 @@
     "capital": "Islamabad"
   },
   {
-    "capital": "Ngerulmud"
-  },
-  {
     "capital": "Jerusalem"
   },
   {
-    "capital": "Panama City"
-  },
-  {
-    "capital": "Port Moresby"
-  },
-  {
-    "capital": "Asunción"
+    "capital": "Asuncion"
   },
   {
     "capital": "Lima"
@@ -512,16 +346,13 @@
     "capital": "Manila"
   },
   {
-    "capital": "Adamstown"
-  },
-  {
     "capital": "Warsaw"
   },
   {
     "capital": "Lisbon"
   },
   {
-    "capital": "San Juan"
+    "capital": "San-Juan"
   },
   {
     "capital": "Doha"
@@ -542,55 +373,16 @@
     "capital": "Kigali"
   },
   {
-    "capital": "Gustavia"
-  },
-  {
-    "capital": "Jamestown"
-  },
-  {
-    "capital": "Basseterre"
-  },
-  {
-    "capital": "Castries"
-  },
-  {
-    "capital": "Marigot"
-  },
-  {
-    "capital": "St. Pierre"
-  },
-  {
-    "capital": "Kingstown"
-  },
-  {
-    "capital": "Apia"
-  },
-  {
-    "capital": "San Marino"
-  },
-  {
-    "capital": "Riyadh"
+    "capital": "Mecca"
   },
   {
     "capital": "Edinburgh"
   },
   {
-    "capital": "Dakar"
-  },
-  {
     "capital": "Belgrade"
   },
   {
-    "capital": "Victoria"
-  },
-  {
-    "capital": "Freetown"
-  },
-  {
     "capital": "Singapore"
-  },
-  {
-    "capital": "Philipsburg"
   },
   {
     "capital": "Bratislava"
@@ -611,22 +403,10 @@
     "capital": "Pretoria"
   },
   {
-    "capital": "Grytviken"
-  },
-  {
     "capital": "Seoul"
   },
   {
-    "capital": "Tskhinvali"
-  },
-  {
-    "capital": "Juba"
-  },
-  {
     "capital": "Madrid"
-  },
-  {
-    "capital": "Sri Jayawardenapura Kotte"
   },
   {
     "capital": "Khartoum"
@@ -647,9 +427,6 @@
     "capital": "Damascus"
   },
   {
-    "capital": "São Tomé"
-  },
-  {
     "capital": "Dushanbe"
   },
   {
@@ -659,19 +436,13 @@
     "capital": "Bangkok"
   },
   {
-    "capital": "Lomé"
-  },
-  {
-    "capital": "Nukuʻalofa"
+    "capital": "Lome"
   },
   {
     "capital": "Tiraspol"
   },
   {
-    "capital": "Port of Spain"
-  },
-  {
-    "capital": "Edinburgh of the Seven Seas"
+    "capital": "Edinburgh"
   },
   {
     "capital": "Tunis"
@@ -682,41 +453,24 @@
   {
     "capital": "Ashgabat"
   },
-  {
-    "capital": "Cockburn Town"
-  },
-  {
-    "capital": "Funafuti"
-  },
+
   {
     "capital": "Kampala"
   },
   {
-    "capital": "Kiev"
-  },
-  {
-    "capital": "Abu Dhabi"
+    "capital": "Abu-Dhabi"
   },
   {
     "capital": "London"
   },
   {
-    "capital": "Washington, D.C."
-  },
-  {
-    "capital": "Charlotte Amalie"
-  },
-  {
-    "capital": "Montevideo"
+    "capital": "Washington"
   },
   {
     "capital": "Tashkent"
   },
   {
-    "capital": "Port Vila"
-  },
-  {
-    "capital": "Vatican City"
+    "capital": "Vatican"
   },
   {
     "capital": "Caracas"
@@ -728,13 +482,7 @@
     "capital": "Cardiff"
   },
   {
-    "capital": "Mata-Utu"
-  },
-  {
-    "capital": "El Aaiún"
-  },
-  {
-    "capital": "Sanaá"
+    "capital": "Sanaa"
   },
   {
     "capital": "Lusaka"
