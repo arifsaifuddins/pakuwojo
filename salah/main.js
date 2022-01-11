@@ -31,8 +31,6 @@ cari.addEventListener( 'click', async function () {
         <h1>${ j.location.name }</h1>
         <img src="`+ result.icon + `" alt="">
         <p>${ result.text }</p>
-        
         `;
-
     } );
 } );
