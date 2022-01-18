@@ -1,5 +1,6 @@
 let cari = document.querySelector( '#city' );
 cari.addEventListener( 'click', async function () {
+
   await fetch( "https://api.aladhan.com/v1/timingsByCity?city=" + cari.value + "&country=country" )
     .then( m => m.json() ).then( j => {
 
